@@ -33,7 +33,7 @@ Our goal is to make healthy living easier and more accessible, starting with Ind
 # Application Result
 
 <div align="center">
-  <img src="" alt="Result App" style="width: 100%;">
+  <img src="profile/assests/Result App.png" alt="Result App" style="width: 100%;">
 </div>
 
 # Project Architecture
