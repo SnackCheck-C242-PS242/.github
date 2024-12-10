@@ -14,7 +14,7 @@ SnackCheck stands out for its simplicity and practicality. In a world where peop
 
 Our goal is to make healthy living easier and more accessible, starting with Indonesians who consume packaged foods every day.🍏✨
 
-# Team Member - CH2-PS307
+# Team Member - C242-PS242
 
 <div align="center">
   
