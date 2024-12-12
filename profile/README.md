@@ -33,7 +33,7 @@ Our goal is to make healthy living easier and more accessible, starting with Ind
 # Application Result
 
 <div align="center">
-  <img src="https://github.com/SnackCheck-C242-PS242/.github/blob/1d479e87a545249ef5d8c583563301fc764a3b64/profile/assests/Result%20App.png" alt="Result App" style="width: 100%;">
+  <img src="https://github.com/SnackCheck-C242-PS242/.github/blob/main/profile/assests/Result%20App.png?raw=true" alt="Result App" style="width: 100%;">
 </div>
 
 # Project Architecture
