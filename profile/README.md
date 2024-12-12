@@ -48,5 +48,5 @@ Our goal is to make healthy living easier and more accessible, starting with Ind
    - [Machine Learning](https://github.com/SnackCheck-C242-PS242/Machine-Learning)
    - [ML API (Flask)]()
    - [Cloud Computing](https://github.com/SnackCheck-C242-PS242/cloud-computing)
-   - [Android](https://github.com/SnackCheck-C242-PS242/Mobile-Development)
+   - [Android Development](https://github.com/SnackCheck-C242-PS242/Mobile-Development)
 2. You can download SnackCheck apps [here]()
