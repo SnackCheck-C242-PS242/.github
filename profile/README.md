@@ -36,7 +36,7 @@ Our goal is to make healthy living easier and more accessible, starting with Ind
   <img src="https://github.com/SnackCheck-C242-PS242/.github/blob/main/profile/assests/Result%20App.png?raw=true" alt="Result App" style="width: 100%;">
 </div>
 
-# Project Architecture
+# Cloud Architecture
 
 <div align="center">
   <img src="https://github.com/SnackCheck-C242-PS242/.github/blob/614718951fac64f24640f95ce2c0df36d1dd8be8/assests/snackCheck%20Cloud%20Architercture%20(1).drawio%20(4).png" alt="Cloud Architecture" style="width: 100%;">
